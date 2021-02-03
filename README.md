@@ -7,3 +7,4 @@ Feitos:
 - https://codeforces.com/problemset/problem/546/A
 - https://codeforces.com/problemset/problem/236/A
 - https://codeforces.com/problemset/problem/71/A
+- https://codeforces.com/problemset/problem/263/A
